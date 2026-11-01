@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="900" viewBox="0 0 600 900" role="img" aria-labelledby="title">
+  <title id="title">Poster phim mẫu TVHAY+</title>
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1">
+      <stop stop-color="#30303a"/>
+      <stop offset=".55" stop-color="#17181d"/>
+      <stop offset="1" stop-color="#090a0c"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#e53946" stop-opacity=".72"/>
+      <stop offset="1" stop-color="#e53946" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="900" fill="url(#bg)"/>
+  <circle cx="370" cy="350" r="270" fill="url(#glow)"/>
+  <path d="M0 680 230 430l100 105 110-190 160 335v220H0z" fill="#101114" opacity=".8"/>
+  <path d="M0 780h600v120H0z" fill="#e53946"/>
+  <text x="48" y="735" fill="#f4f3f0" font-family="Arial,sans-serif" font-size="28" font-weight="700" letter-spacing="8">TVHAY+ ORIGINAL</text>
+  <text x="48" y="842" fill="#fff" font-family="Arial,sans-serif" font-size="58" font-weight="900">MOVIE TITLE</text>
+</svg>

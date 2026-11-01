@@ -1,0 +1,17 @@
+/target/
+/classes/
+/generated-sources/
+/generated-test-sources/
+/test-classes/
+/build/
+/dist/
+/nbproject/private/
+/.idea/
+*.class
+*.war
+*.log
+/.env
+/.env.*
+!/.env.example
+/*.pdf
+/test.txt

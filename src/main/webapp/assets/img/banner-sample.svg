@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="800" viewBox="0 0 1920 800" role="img" aria-labelledby="title">
+  <title id="title">Banner trang chủ TVHAY+</title>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#111217"/>
+      <stop offset=".55" stop-color="#27202a"/>
+      <stop offset="1" stop-color="#101114"/>
+    </linearGradient>
+    <radialGradient id="light">
+      <stop stop-color="#e53946" stop-opacity=".68"/>
+      <stop offset="1" stop-color="#e53946" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fade" x2="1">
+      <stop stop-color="#101114"/>
+      <stop offset=".72" stop-color="#101114" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="800" fill="url(#background)"/>
+  <ellipse cx="1430" cy="380" rx="650" ry="500" fill="url(#light)"/>
+  <path d="m1120 800 260-490 140 205 150-310 250 595z" fill="#15151b"/>
+  <path d="M0 0h1920v800H0z" fill="url(#fade)"/>
+  <text x="130" y="280" fill="#e53946" font-family="Arial,sans-serif" font-size="30" font-weight="700" letter-spacing="12">TVHAY+ ORIGINAL</text>
+  <text x="125" y="390" fill="#f4f3f0" font-family="Arial,sans-serif" font-size="86" font-weight="900">A STORY BEGINS</text>
+  <text x="130" y="455" fill="#c5c5ca" font-family="Arial,sans-serif" font-size="30">A sample hero banner for your cinema streaming app</text>
+</svg>
